@@ -1,13 +1,20 @@
 # AI-Chatbot-Python-Flask
 An AI Chatbot using Python and Flask REST API 
 
-## Requirements (libraries)
-1. TensorFlow
-2. NLP
-3. Flask
-4. Numpy
+### Technologies Used
+- Python
+- Flask
+- TensorFlow
+- Natural Language Processing
+- Numpy
 
-## VsCode SetUp
+## Requirements (Pythons's libraries)
+1. TensorFlow (For model training and creation)
+2. NLP (Natural language understanding)
+3. Flask (For Rest APIs)
+4. Numpy (To save two dimensional array)
+
+## Visual Studio Code SetUp
 1. Clone the repository-> cd into the cloned repository folder
 2. Create a python virtual environment 
 ```
